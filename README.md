@@ -5,7 +5,7 @@
   <img src="https://github.com/dagrate/MQLV/blob/master/images/results_plot2.png" width="390"/>
 </p>
 
-MQLV, Modified Q-Learning for the Vasicek Model, is a Python library that proposes a new model-free reinforcement learning approach in the context of financial transactions that follows a mean reverting process. It limits the Q-values over-estimation observed in QLBS, Q-Learner in the Black-Scholes(-Merton) Worlds. Additionally, it extends the simulation to mean reverting stochastic diffusion processes, the Vasicek model. Furhtermore, MQLV uses a digital function, or digital option in the financial world, to estimate the future probability of an event, thus widening the scope of the financial application to any other domain involving time series.
+MQLV, Modified Q-Learning for the Vasicek Model, is a Python library that proposes a new model-free reinforcement learning approach in the context of financial transactions that follows a mean reverting process. It limits the Q-values over-estimation observed in QLBS, Q-Learner in the Black-Scholes(-Merton) Worlds. Additionally, it extends the simulation to mean reverting stochastic diffusion processes, the Vasicek model. Furthermore, MQLV uses a digital function, or digital option in the financial world, to estimate the future probability of an event, thus widening the scope of the financial application to any other domain involving time series.
 
 Because of the confidentiality of the orginal financial data sets, we propose to use artificially generated data sets, saved in csv files.
 
