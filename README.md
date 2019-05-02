@@ -35,10 +35,17 @@ sudo apt-get install libblas-dev liblapack-dev gfortran
 
 If you use the repository, please cite:
 
+To Be Added Soon
+
+----------------------------
+
+## References
+
+```bibtex
 @article{halperin2017qlbs,
   title={QLBS: Q-learner in the Black-Scholes (-Merton) worlds},
   author={Halperin, Igor},
   journal={arXiv preprint arXiv:1712.04609},
   year={2017}
 }
-
+```
