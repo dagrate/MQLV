@@ -2,7 +2,7 @@
 
 <p align="middle">
   <img src="https://github.com/dagrate/MQLV/blob/master/images/results_plot1.png" width="400"/>
-  <img src="https://github.com/dagrate/MQLV/blob/master/images/results_plot2.png" width="400"/>
+  <img src="https://github.com/dagrate/MQLV/blob/master/images/results_plot2.png" width="390"/>
 </p>
 
 MQLV is a Python and R library that proposes to evaluate the quality of the generated adversarial samples using persistent homology. For some real-world applications, different than computer vision, we cannot assess visually the quality of the generated adversarial samples. Therefore, we have to use other metrics. Here, we rely on persistent homology because it is capable to acknowledge the shape of the data points, by opposition to traditional distance measures such the Euclidean distance.
